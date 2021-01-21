@@ -1,2 +1,2 @@
 # clearportal
-Solidity Project
+A New Project
